@@ -11,7 +11,7 @@ namespace Aleatorio
         static void Main(string[] args)
         {
             //Adivinar un número aleatorio entre 1 y 100
-            //Andy Garzón
+            //Tabata Vernaza
             Random rand = new Random();
             int numeroAleatorio = rand.Next(1, 101); // Genera un número al azar entre 1 y 100
             int intento;
