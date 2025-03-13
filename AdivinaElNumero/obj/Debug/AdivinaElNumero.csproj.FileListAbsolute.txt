@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\bin\Debug\AdivinaElNumero.exe.config
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\bin\Debug\AdivinaElNumero.exe
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\bin\Debug\AdivinaElNumero.pdb
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\obj\Debug\AdivinaElNumero.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\obj\Debug\AdivinaElNumero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\obj\Debug\AdivinaElNumero.exe
+C:\Users\Usuario\Desktop\22-09\AdivinaElNumero\AdivinaElNumero\obj\Debug\AdivinaElNumero.pdb
